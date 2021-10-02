@@ -17,3 +17,5 @@ The dataset has been visualized in the form of pie charts, bar charts,
 boxplots, table formats, line graphs, heat maps etc.
 
 Key words: Data set, Food Industry, Restaurants, Zomato, Visualization.
+
+![Analysing Zomato(Bangalore) Data (1)](https://user-images.githubusercontent.com/69135317/135715123-86117626-90f3-4bc2-b45f-6d3ec7737e3a.png)
